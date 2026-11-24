@@ -1,0 +1,12 @@
+{
+  "name": "mini-twitter-api",
+  "version": "1.0.0",
+  "description": "CSE343 Lab 8 - Mini Twitter REST API using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
